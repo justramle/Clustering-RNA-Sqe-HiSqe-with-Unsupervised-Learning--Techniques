@@ -1,5 +1,6 @@
-## Project 2
-### clustered RNA-Sqe data using KMeans clustering and reductional dimension as unsupervised learning techniques with two methods and evaluated the performance on each
+
+### Clustered RNA-Sqe data using KMeans clustering and reductional dimension as unsupervised learning techniques with two methods and evaluated the performance on each
+
 - Method 1: applied KMeans directly on both raw data and scaled (normalized) data,
 then visualized the clusters using dimension reduction with PCA. I evaluate the
 performance using the Adjusted Rand Index and Normalized Mutual Information,
