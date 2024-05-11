@@ -26,7 +26,7 @@ overall accuracy.
 
 |  | Kmeans on Raw Data | Kmeans on Scaled Data | KMeans on PCA | KMeans on T-SNE |
 | ---  | --- | --- | --- | --- |
-| ARI | 98.51% | 80% | 80.71% | 84.18% |
-| NMI | 97.72%  | 85.62% | 99.62% | 99.47% |
+| ARI | 98.51% | 80% | 80.71% | 99.62% |
+| NMI | 97.72%  | 85.62% | 84.18% | 99.47% |
 
 
